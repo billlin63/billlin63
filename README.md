@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billlin63
 - 👀 I’m interested in drone
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on someone who is interest the same with me
+- 💞️ I’m looking to collaborate on someone who is interested something same with me
 - 📫 How to reach me ... please contact myself at billlin63@gmail.com
 
 <!---
