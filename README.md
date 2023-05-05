@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billlin63
 - 👀 I’m interested in drone
-- 🌱 I’m currently learning python
+- 🌱 I’m programming in python and work with openAI.
 - 💞️ I’m looking to collaborate on someone who is interested something same with me
 - 📫 How to reach me ... please contact myself at billlin63@gmail.com
 
